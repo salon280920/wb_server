@@ -1,3 +1,6 @@
+# White Board Server
 ## Get Started
-- `npm install`
-- `nodejs index.js`
+```bash
+npm install
+npm start
+```
